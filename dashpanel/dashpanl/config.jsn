@@ -1,0 +1,55 @@
+{
+  "default" : "en",
+  "en" : {
+    "appName" : "Dashboard Panel",
+    "sw" : "Select command",
+    "indName": "Name",
+    "indList": "Displayed indicators",
+    "newLabel" : "New indicator",
+    "menuLabelBack" : "<< Back",
+    "dashName" : "Dash name",
+    "defaultDash": "My dash",
+    "dashSize": "Dash panel size",
+    "dashSizeList" : ["Small","Double"],
+    "indMode": "Indicator type",
+    "indModeList": ["on/off","Gear","Flap"],
+    "add": "Add",
+    "del": "Del",
+    "sav": "Save"
+  },
+  "fr" : {
+    "appName" : "Tableau de bord",
+    "sw" : "Selectionner commande",
+    "indName": "Nom",
+    "indList": "Indicateurs affichés",
+    "newLabel" : "Nouveau",
+    "menuLabelBack" : "<< Retour",
+    "dashName" : "Nom du tableau",
+    "defaultDash": "Mon tableau",
+    "dashSize": "Taille du tableau",
+    "dashSizeList" : ["Petit","Double"],
+    "indMode": "Type d'affichage",
+    "indModeList": ["marche/arret","Train","Volets"],
+    "add": "Ajt",
+    "del": "Supp",
+    "sav": "Sauv"
+  },
+  "es" : {
+    "appName" : "Panel de instrumentos",
+    "sw" : "Comando",
+    "indName": "Nombre",
+    "indList": "Indicadores mostrados",
+    "newLabel" : "Nuevo",
+    "menuLabelBack" : "<< Volver",
+    "dashName" : "Nombre del panel",
+    "defaultDash": "Mi panel",
+    "dashSize": "Tamaño del panel",
+    "dashSizeList" : ["Pequeño","Doble"],
+    "indMode": "Tipo de indicador",
+    "indModeList": ["encendido/apagado","Tren","Flaps"],
+    "add": "Agr",
+    "del": "Supr",
+    "sav": "Salv"
+
+  }
+}
