@@ -1,0 +1,32 @@
+
+{
+    "applications":[
+        {
+        "id":1,
+        "version":"1",
+        "author":"daniel.maiorano @gmail.com",
+        "hw":[
+           674,
+           675,
+           676,
+           677
+        ],
+        "releaseDate":"Sun, 21 Jul 2019 00:00:00 +0200",
+        "name":{
+           "en":"Speed Speech"
+        },
+        "description":{
+           "en":"http:\/\/www.jetimodel.com\/files\/update-dcds\/apps\/alcormack\/MHSFADrag\/MHSFADrag.html"
+        },
+        "previewIcon":"http:\/\/www.jetimodel.com\/files\/update-dcds\/apps\/alcormack\/ACLogo32.png",
+        "files":[
+           {
+              "url":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/SpeedSpeech\/speed.lua",
+              "destination":"Apps\/speed.lua",
+              "hash":"c45abdd8c4f17c4cdb08aae70e974d45ed53dd55",
+              "size":6222
+           }
+        ]
+        }
+    ]
+}
