@@ -7,5 +7,5 @@ In order to do that, please add the following URL to the application sources.
 https://github.com/daniel-maiorano/LUA-Published/raw/master/sample.json
 
 Go to the Jeti-studio Preference, on the "App sources" tab, add the above mentioned URL
-[](j-studio-add-source.gif)
+![](j-studio-add-source.gif)
 Cheers
