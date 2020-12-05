@@ -4,16 +4,16 @@
         "version":"1",
         "author":"daniel.maiorano @gmail.com",
         "hw": [674,675,676,677,678,679,680],
-        "releaseDate":"Sat, 05 Dec 2020 18:10:20 +0100",
+        "releaseDate":"Sat, 05 Dec 2020 21:11:18 +0100",
         "name":{
            "en":"Dash Panel",
            "fr":"Dash Panel",
            "es":"Dash Panel"
         },
         "description":{
-           "en":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/desc/en.html",
-           "fr":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/desc/fr.html",
-           "es":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/desc/es.html"
+           "en":"https://htmlpreview.github.io/?https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/desc/en.html",
+           "fr":"https://htmlpreview.github.io/?https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/desc/fr.html",
+           "es":"https://htmlpreview.github.io/?https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/desc/es.html"
         },
         "previewIcon":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/icon.png",
         "files":[
