@@ -1,0 +1,21 @@
+{
+    "dashName": "My dash",
+    "indicators": [
+        {
+            "indMode": 2,
+            "name": "Gear",
+            "command": "Sa"
+        },
+        {
+            "indMode": 1,
+            "name": "New indicator",
+            "command": "Sb"
+        },
+        {
+            "indMode": 3,
+            "name": "Flaps",
+            "command": "Sc"
+        }
+    ],
+    "size": 2
+}

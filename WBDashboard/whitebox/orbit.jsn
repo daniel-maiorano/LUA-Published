@@ -1,0 +1,61 @@
+{
+
+
+			"brand": "Orbit",
+			"message": {
+				"0": {
+					"text": "Lock",
+					"speech":"eculocked.wav"
+				},
+				"1": {
+					"text": "Stop",
+					"speech":"Turbineoff.wav"
+				},
+				"2": {
+					"text": "Run",
+					"speech":"turidle.wav"
+				},
+				"3": {
+					"text": "Rel",
+					"speech":"release.wav"
+				},
+				"4": {
+					"text": "Glow",
+					"speech":"preheatkero.wav"
+				},
+				"5": {
+					"text": "Spin",
+					"speech":"spin.wav"
+				},
+				"6": {
+					"text": "Heat",
+					"speech":"heat.wav"
+				},
+				"7": {
+					"text": "Accel",
+					"speech":"accel.wav"
+				},
+				"8": {
+					"text": "Calibration",
+					"speech":"cal.wav"
+				},
+				"9": {
+					"text": "Idle",
+					"speech":"idle.wav"
+				},
+				"10": {
+					"text": "Off",
+					"speech":"off.wav"
+				},
+				"11": {
+					"text": "Cool",
+					"speech":"cool_down.wav"
+				},
+				"255": {
+					"text": "ECU Offline",
+					"speech":"ecuol.wav"
+				}
+			}
+
+
+}

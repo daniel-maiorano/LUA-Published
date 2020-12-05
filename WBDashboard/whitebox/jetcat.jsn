@@ -1,0 +1,212 @@
+{
+
+			"brand": "JetCat",
+			"message": {
+				"0": {
+					"text": "Off",
+					"speech":"off.wav"
+				},
+				"1": {
+					"text": "StandBy",
+					"speech":"standby.wav"
+				},
+				"2": {
+					"text": "Ignite",
+					"speech":"ignite.wav"
+				},
+				"3": {
+					"text": "Acceleration",
+					"speech":"accelerate.wav"
+				},
+				"4": {
+					"text": "Stabilization",
+					"speech":"stabilize.wav"
+				},
+				"5": {
+					"text": "Learn Hi",
+					"speech":"learnhigh.wav"
+				},
+				"6": {
+					"text": "Learn Lo",
+					"speech":"LearnLo.wav"
+				},
+				"8": {
+					"text": "Slow Down",
+					"speech":"slowdown.wav"
+				},
+				"10": {
+					"text": "Auto Off",
+					"speech":"auto-off.wav"
+				},
+				"11": {
+					"text": "Run",
+					"speech":"run.wav"
+				},
+				"12": {
+					"text": "Accel Delay",
+					"speech":"Accelrdly.wav"
+				},
+				"13": {
+					"text": "Speed Reg",
+					"speech":"speedctrl.wav"
+				},
+				"14": {
+					"text": "TS-Reg",
+					"speech":"speedctrl.wav"
+				},
+				"15": {
+					"text": "Pre Heat 1",
+					"speech":"preheat1.wav"
+				},
+				"16": {
+					"text": "Pre Heat 2",
+					"speech":"preheat2.wav"
+				},
+				"17": {
+					"text": "MainFStr",
+					"speech":"mainfstrt.wav"
+				},
+				"19": {
+					"text": "Kero Full",
+						"speech":"keros.full.wav"
+				},
+				"33": {
+					"text": "RC Off",
+					"speech":"rc-off.wav"
+				},
+				"34": {
+					"text": "Overtemperature",
+						"speech":"overtemp.wav"
+				},
+				"35": {
+					"text": "Ignition timeout",
+						"speech":"igntimout.wav"
+				},
+				"36": {
+					"text": "Accel timeout",
+						"speech":"acctimout.wav"
+				},
+				"37": {
+					"text": "Accel too slow",
+						"speech":"acc.slow.wav"
+				},
+				"38": {
+					"text": "Over RPM",
+						"speech":"over-rpm.wav"
+				},
+				"39": {
+					"text": "RPM too low",
+						"speech":"rpm_to_low.wav"
+				},
+				"40": {
+					"text": "Battery low",
+						"speech":"battrylow.wav"
+				},
+				"41": {
+					"text": "Auto-Off",
+						"speech":"auto-off.wav"
+				},
+				"42": {
+					"text": "Temp too low",
+						"speech":"templow.wav"
+				},
+				"43": {
+					"text": "Temp too high",
+						"speech":"temphigh.wav"
+				},
+				"44": {
+					"text": "Glow bad",
+						"speech":"kerofail.wav"
+				},
+				"45": {
+					"text": "Watchdog",
+						"speech":"watchdog.wav"
+				},
+				"46": {
+					"text": "Failsafe",
+						"speech":"failsafe_detected.wav"
+				},
+				"47": {
+					"text": "GSU off",
+						"speech":"gsu_offline.wav"
+				},
+				"48": {
+					"text": "Power failure",
+						"speech":"powerfail.wav"
+				},
+				"49": {
+					"text": "EGT sensor fail",
+						"speech":"egt_sensor_failed.wav"
+				},
+				"50": {
+					"text": "Fuel failure",
+						"speech":"fuelfail.wav"
+				},
+				"51": {
+					"text": "Prop fail",
+						"speech":"propfail.wav"
+				},
+				"52": {
+					"text": "2nd engine fail",
+						"speech":"secfail.wav"
+				},
+				"53": {
+					"text": "2nd engine diff",
+						"speech":"secengdiff.wav"
+				},
+				"54": {
+					"text": "2nd engine comm",
+						"speech":"seccom.wav"
+				},
+				"55": {
+					"text": "No oil",
+						"speech":"no-oil.wav"
+				},
+				"56": {
+					"text": "Overcurrent",
+						"speech":"overcurr.wav"
+				},
+				"57": {
+					"text": "No pump",
+						"speech":"no pump!.wav"
+				},
+				"58": {
+					"text": "Wrong pump",
+						"speech":"wrongpump.wav"
+				},
+				"59": {
+					"text": "Pump error",
+						"speech":"pumperr.wav"
+				},
+				"60": {
+					"text": "No fuel",
+						"speech":"warnofuel.wav"
+				},
+				"61": {
+					"text": "Low RPM",
+						"speech":"low-rpm.wav"
+				},
+				"62": {
+					"text": "Low RPM",
+						"speech":"low-rpm.wav"
+				},
+				"63": {
+					"text": "Clutch fail",
+						"speech":"clutchfail.wav"
+				},
+				"64": {
+					"text": "ECU reboot",
+						"speech":"ecu reboot.wav"
+				},
+				"65": {
+					"text": "Failure",
+					"speech":"failure.wav"
+				},
+				"255": {
+					"text": "ECU Offline",
+						"speech":"ecuoffline.wav"
+				}
+			}
+
+
+}

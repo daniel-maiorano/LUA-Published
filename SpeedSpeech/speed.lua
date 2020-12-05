@@ -149,9 +149,11 @@ local function loop()
     
     if (swi and swi == 1) then
 		if(sensor and sensor.valid) then
-		  value=sensor.value
+          value=sensor.value
+          factor=1
 		  if(sensor.unit=="m/s") then factor=1 end
-		  if(sensor.unit=="km/h") then factor=0.2777 end
+          if(sensor.unit=="km/h") then factor=0.2777 end
+          if(sensor.unit=="kmh") then factor=0.2777 end
 		  if(sensor.unit=="ft/s") then factor=0.3048 end
 		  if(sensor.unit=="mph") then factor=0.44704 end
 		  if(sensor.unit=="kt.") then factor=0.514444 end

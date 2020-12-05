@@ -1,0 +1,60 @@
+{
+
+			"brand": "Spark",
+			"message": {
+				"0": {
+					"text": "Cooling"
+				},
+				"1": {
+					"text": "Stand By"
+				},
+				"2": {
+					"text": "Ready"
+				},
+				"3": {
+					"text": "-State03-"
+				},
+				"4": {
+					"text": "Check Thermo"
+				},
+				"5": {
+					"text": "-State05-"
+				},
+				"6": {
+					"text": "-State06-"
+					
+				},
+				"7": {
+					"text": "Check Ign"
+				},
+				"8": {
+					"text": "Fire stag 1"
+					
+				},
+				"9": {
+					"text": "Fire stag 2"
+					
+				},
+				"10": {
+					"text": "Fire stag 1"
+				},
+				"11": {
+					"text": "Clutch Out"
+				},
+				"12": {
+					"text": "Enter idle"
+				},
+				"13": {
+					"text": "Running..."
+				},
+				"14": {
+					"text": "-Unknown-"
+				},             
+				"255": {
+					"text": "ECU Offline",
+					"speech":"ecuoffline.wav"
+				}
+			}
+
+
+}

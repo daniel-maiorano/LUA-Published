@@ -1,0 +1,85 @@
+{
+	"config": {
+		"brand" : "whitebox"
+	},
+	"ecu": {
+		"0": {
+			"brand": "ProJET",
+			"file": "projet.jsn"
+		},
+		"1": {
+			"brand": "JetCat",
+			"file": "jetcat.jsn"
+		},
+		"2": {
+			"brand": "Xicoy-v10",
+			"file": "xicoy.jsn"
+		},
+		"3": {
+			"brand": "Xicoy-v6",
+			"file": "xicoy.jsn"
+		},
+		"4": {
+			"brand": "Digitech",
+			"file": "xicoy.jsn"
+		},
+		"5": {
+			"brand": "EvoJET",
+			"file": "orbit.jsn"
+		},
+		"6": {
+			"brand": "Kingtech G2",
+			"file": "kingtech.jsn"
+		},
+		"7": {
+			"brand": "Spark",
+			"file": "spark.jsn"
+		}
+	},
+	"device":{
+		"Digitech-TTU" : {
+			"brand": "Digitech",
+			"model": "TTU",
+			"version": "3.1",
+			"RPM": "2",
+			"EGT": "3",
+			"Fuel": "1",
+			"Batt": "5",
+			"Pump": "6",
+			"Status": "9"
+		},		
+		"WhiteBox" : {
+			"brand": "WhiteBox",
+			"model": "Speed",
+			"version": "3.1",
+			"RPM": "2",
+			"EGT": "3",
+			"Fuel": "1",
+			"Batt": "5",
+			"Pump": "6",
+			"Status": "9"
+		},
+		"WhiteBox-Basic" : {
+			"brand": "WhiteBox",
+			"model": "Basic",
+			"version": "3.1",
+			"RPM": "2",
+			"EGT": "3",
+			"Fuel": "1",
+			"Batt": "4",
+			"Pump": "5",
+			"Status": "8"
+		},
+		"WhiteBoxNG" : {
+			"brand": "WhiteBox",
+			"model": "NG",
+			"version": "1.2",
+			"RPM": "2",
+			"EGT": "3",
+			"Fuel": "1",
+			"Batt": "5",
+			"Pump": "6",
+			"Status": "9"
+		}
+	}
+}

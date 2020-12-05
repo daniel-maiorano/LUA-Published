@@ -1,0 +1,100 @@
+{
+
+			"brand": "Kingtech G2",
+			"message": {
+				"0": {
+					"text": "Trim Low",
+					"speech":"STANDBY.wav"
+				},
+				"1": {
+					"text": "Ready",
+					"speech":"ARMED.wav"
+				},
+				"2": {
+					"text": "Sticklo!",
+					"speech":"warningsticklow.wav"
+				},
+				"3": {
+					"text": "Glow test",
+					"speech":"Glow_test.wav"
+				},
+				"4": {
+					"text": "Start on",
+					"speech":"tbe.wav"
+				},
+				"5": {
+					"text": "Ignition",
+					"speech":"FUELIGNIT.wav"
+				},
+				"6": {
+					"text": "Preheat",
+					"speech":"FUELHEAT.wav"
+				},
+				"7": {
+					"text": "Fuelramp",
+					"speech":"RAMP-UP.wav"
+				},
+				"8": {
+					"text": "Running",
+					"speech":"turbineidle.wav"
+				},
+				"9": {
+					"text": "Stop",
+					"speech":"turbineoff.wav"
+				},
+				"10": {
+					"text": "Cooling",
+					"speech":"cool_down.wav"
+				},
+				"11": {
+					"text": "Glow Bad",
+					"speech":"kerofail.wav"
+				},
+				"12": {
+					"text": "Startbad",
+					"speech":"bad_start.wav"
+				},
+				"13": {
+					"text": "Low RPM",
+					"speech":"lowrpm.wav"
+				},
+				"14": {
+					"text": "High Temp",
+					"speech":"hightemp.wav"
+				},
+				"15": {
+					"text": "Flameout",
+					"speech":"flameout2.wav"
+				},
+				"16": {
+					"text": "Primevap",
+					"speech":"FUELHEAT.wav"
+				},
+				"17": {
+					"text": "Stage 1",
+					"speech":"Stage_1.wav"
+				},
+				"18": {
+					"text": "Stage 2",
+					"speech":"Stage_2.wav"
+				},
+				"19": {
+					"text": "Stage 3",
+					"speech":"Stage_3.wav"
+				},
+				"20": {
+					"text": "Burner on",
+					"speech":"BURNER ON.wav"
+				},
+				"21": {
+					"text": "Low batt",
+					"speech":"BattryLow.wav"
+				},
+				"255": {
+					"text": "ECU Offline",
+				"speech":"ecu_is_off_line.wav"
+				}
+			}
+
+
+}
