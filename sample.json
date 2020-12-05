@@ -4,69 +4,69 @@
         "version":"1",
         "author":"daniel.maiorano @gmail.com",
         "hw": [674,675,676,677,678,679,680],
-        "releaseDate":"Sat, 05 Dec 2020 17:48:58 +0100",
+        "releaseDate":"Sat, 05 Dec 2020 18:03:11 +0100",
         "name":{
            "en":"Dash Panel"
         },
         "description":{
-           "en":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/desc/en.html",
-           "fr":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/desc/fr.html",
-           "es":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/desc/es.html"
+           "en":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/.info\/desc\/en.html",
+           "fr":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/.info\/desc\/fr.html",
+           "es":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/.info\/desc\/es.html"
         },
-        "previewIcon":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/.info/icon.png",
+        "previewIcon":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/.info\/icon.png",
         "files":[
             {
-              "url":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/dashpanl/models/default.jsn",
-              "destination":"Apps/dashpanel/dashpanl/models/default.jsn",
+              "url":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/dashpanl\/models\/default.jsn",
+              "destination":"Apps\/dashpanl\/models\/default.jsn",
               "hash":"04225b7476cea3ee56be234f98aee0d9e6c0cbb6",
               "size":389
            }
 ,
             {
-              "url":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/dashpanl/img/flap-ld.png",
-              "destination":"Apps/dashpanel/dashpanl/img/flap-ld.png",
+              "url":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/dashpanl\/img\/flap-ld.png",
+              "destination":"Apps\/dashpanl\/img\/flap-ld.png",
               "hash":"c09913f379177b083d6249d9239df72b352a2e2f",
               "size":159
            }
 ,
             {
-              "url":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/dashpanl/img/gear-down.png",
-              "destination":"Apps/dashpanel/dashpanl/img/gear-down.png",
+              "url":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/dashpanl\/img\/gear-down.png",
+              "destination":"Apps\/dashpanl\/img\/gear-down.png",
               "hash":"5e37ec7bd31dd661ae997dd4d7447fe88e052149",
               "size":180
            }
 ,
             {
-              "url":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/dashpanl/img/flap-0.png",
-              "destination":"Apps/dashpanel/dashpanl/img/flap-0.png",
+              "url":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/dashpanl\/img\/flap-0.png",
+              "destination":"Apps\/dashpanl\/img\/flap-0.png",
               "hash":"a3e817d36349452cd34bc4569ce325027e6cf61c",
               "size":112
            }
 ,
             {
-              "url":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/dashpanl/img/flap-to.png",
-              "destination":"Apps/dashpanel/dashpanl/img/flap-to.png",
+              "url":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/dashpanl\/img\/flap-to.png",
+              "destination":"Apps\/dashpanl\/img\/flap-to.png",
               "hash":"952b872edc3f253dbb2111e80721be0db966be56",
               "size":151
            }
 ,
             {
-              "url":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/dashpanl/img/gear-up.png",
-              "destination":"Apps/dashpanel/dashpanl/img/gear-up.png",
+              "url":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/dashpanl\/img\/gear-up.png",
+              "destination":"Apps\/dashpanl\/img\/gear-up.png",
               "hash":"b5f7808f347632b98e872b4f49b8cb7eb6caa04d",
               "size":168
            }
 ,
             {
-              "url":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/dashpanl/config.jsn",
-              "destination":"Apps/dashpanel/dashpanl/config.jsn",
+              "url":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/dashpanl\/config.jsn",
+              "destination":"Apps\/dashpanl\/config.jsn",
               "hash":"578a60d676492012e9f658bc4268d0228021ed37",
               "size":1504
            }
 ,
             {
-              "url":"https://github.com/daniel-maiorano/LUA-Published/raw/master/dashpanel/dashpanl.lua",
-              "destination":"Apps/dashpanel/dashpanl.lua",
+              "url":"https:\/\/github.com\/daniel-maiorano\/LUA-Published\/raw\/master\/dashpanel\/dashpanl.lua",
+              "destination":"Apps\/dashpanl.lua",
               "hash":"c8934b95f92a299f68cac455c8b6f2d9a77bc4c9",
               "size":10172
            }
